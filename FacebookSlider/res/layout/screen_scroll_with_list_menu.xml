@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.facebookslider.FacebookSlideView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_margin="0px"
+    android:background="#00ffffff"
+    android:fadingEdge="none"
+    android:fadingEdgeLength="0px"
+    android:padding="0px"
+    android:scrollbars="none" >
+
+    <LinearLayout
+        android:id="@+id/top"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_margin="0px"
+        android:background="#ffffffff"
+        android:orientation="horizontal"
+        android:padding="0px" >
+    </LinearLayout>
+
+</com.android.facebookslider.FacebookSlideView>
